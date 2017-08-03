@@ -30,6 +30,17 @@ public class MathOperations {
 		one = "dog";
 		two = "house";
 		both = one + two;
-		System.out.println(both);		
+		System.out.println(both);
+
+		// study drill stuff
+		
+		double rosieAge, cantripAge;
+		
+		rosieAge = (a + 14) / 2;
+		cantripAge = x * 4 - 2;
+		
+		System.out.println("Rosie the dog is " + rosieAge + " years old, and Cantrip the chicken is " + cantripAge + ".");
+		
+		
 	}
 }
